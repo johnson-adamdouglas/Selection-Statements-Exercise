@@ -1,0 +1,41 @@
+Selection statements - enable you to branch to diff sections of code based on specified conditions
+if - else, switch - case
+
+if(condition)
+{
+	Console.WriteLine("The variable is set to true.");
+}
+else
+{
+	Console.WriteLine("False");
+
+
+
+
+switch(expression)
+{
+	case x:
+		//code black
+		break;	
+	case y:
+		//code black
+		break;
+	default:
+		//cpde block
+		break;
+}
+
+
+switch (var)
+{
+	case "";
+	case "";
+		Console.WriteLine ("");
+		break;
+	case "";
+		Console.WriteLine("");
+		break;
+	default:
+		Console.WriteLine(");
+		break;
+}
